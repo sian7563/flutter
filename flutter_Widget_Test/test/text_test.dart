@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:flutter_test1/main.dart';
+import 'package:flutter_test1/text.dart';
 
 void main() {
   testWidgets('MyWidget has a title and message', (WidgetTester tester) async {
